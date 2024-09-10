@@ -1,0 +1,5 @@
+setuptools
+wheel
+taipy
+google-generativeai
+python-dotenv
