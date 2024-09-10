@@ -72,6 +72,6 @@ if __name__ == "__main__":
     response = ""
     debug_response = "Debug: Initial debug response"
     gui = Gui(page)
-    gui.run(debug=True, port=5002, title="Q&A App", use_reloader=True)
+    gui.run(port=5002, title="Q&A App", use_reloader=True)
 
 
